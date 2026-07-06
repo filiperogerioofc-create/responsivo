@@ -1,0 +1,28 @@
+nav{
+    width: 100vw;
+    height: auto;
+    justify-content: center;
+    background-color: rgb(69, 18, 18);
+  display: flex;
+}
+nav button {
+    padding: 10px 20px;
+    margin: 22px;
+
+}
+figure{   display: flex;
+    justify-content: left;
+    margin: 12px;
+    width: 22px;
+    height: 100px;
+}
+section{
+    display: flex;
+    text-align: left;
+  
+ 
+   
+
+}
+
+ 
